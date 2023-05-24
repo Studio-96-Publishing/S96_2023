@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Map_Marker" size="20.000000 24.403410" />
+    <ImageTarget name="page_25" size="20.000000 26.467260" />
+    <ImageTarget name="page_140" size="20.000000 13.333333" />
+    <ImageTarget name="page_132" size="20.000000 26.513945" />
+    <ImageTarget name="page_131" size="20.000000 26.397261" />
+    <ImageTarget name="page_129" size="20.000000 25.885015" />
+    <ImageTarget name="page_119" size="20.000000 26.465864" />
+    <ImageTarget name="page_95" size="20.000000 26.348186" />
+    <ImageTarget name="page_116" size="20.000000 15.426666" />
+    <ImageTarget name="page_93" size="20.000000 15.828698" />
+    <ImageTarget name="page_89" size="20.000000 25.510887" />
+    <ImageTarget name="page_88" size="20.000000 26.614918" />
+    <ImageTarget name="page_84" size="20.000000 15.526111" />
+    <ImageTarget name="page_78" size="20.000000 27.563150" />
+    <ImageTarget name="page_76" size="20.000000 14.021505" />
+    <ImageTarget name="page_75" size="20.000000 13.879599" />
+    <ImageTarget name="page_71" size="20.000000 19.989969" />
+    <ImageTarget name="page_70" size="20.000000 20.070789" />
+    <ImageTarget name="page_68" size="20.000000 13.920137" />
+    <ImageTarget name="page_60" size="20.000000 15.280000" />
+    <ImageTarget name="page_59" size="20.000000 26.501766" />
+    <ImageTarget name="page_52" size="20.000000 26.714159" />
+    <ImageTarget name="page_51" size="20.000000 15.226666" />
+    <ImageTarget name="page_40" size="20.000000 25.359257" />
+    <ImageTarget name="page_34" size="20.000000 26.109661" />
+    <ImageTarget name="page_33" size="20.000000 27.027027" />
+    <ImageTarget name="page_32" size="20.000000 29.732079" />
+    <ImageTarget name="page_28" size="20.000000 15.360000" />
+    <ImageTarget name="page_26" size="20.000000 25.252525" />
+    <ImageTarget name="cover_and_page_67" size="20.000000 26.507414" />
+    <ImageTarget name="page23" size="0.200000 0.272232" />
+  </Tracking>
+</QCARConfig>

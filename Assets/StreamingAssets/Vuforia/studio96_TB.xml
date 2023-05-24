@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TB__245" size="20.000000 24.978386" />
+    <ImageTarget name="TB__238" size="20.000000 26.825089" />
+    <ImageTarget name="TB__234" size="20.000000 26.111519" />
+    <ImageTarget name="TB__228-229" size="20.000000 11.837037" />
+    <ImageTarget name="TB__226-227" size="20.000000 12.088889" />
+    <ImageTarget name="TB__216" size="20.000000 25.555140" />
+    <ImageTarget name="TB__205" size="20.000000 27.684849" />
+    <ImageTarget name="TB__204" size="20.000000 26.182652" />
+    <ImageTarget name="TB__203" size="20.000000 24.200270" />
+    <ImageTarget name="TB__202" size="20.000000 26.955177" />
+    <ImageTarget name="TB__199" size="20.000000 26.769463" />
+    <ImageTarget name="TB__188-189" size="20.000000 12.000000" />
+    <ImageTarget name="TB__186" size="20.000000 26.094519" />
+    <ImageTarget name="TB__183" size="20.000000 29.939638" />
+    <ImageTarget name="TB__181" size="20.000000 26.880444" />
+    <ImageTarget name="TB__177" size="20.000000 27.166994" />
+    <ImageTarget name="TB__172" size="20.000000 27.752127" />
+    <ImageTarget name="TB__156-157" size="20.000000 12.088889" />
+    <ImageTarget name="TB__153" size="20.000000 28.067434" />
+    <ImageTarget name="TB__152" size="20.000000 27.477982" />
+    <ImageTarget name="TB__144-145" size="20.000000 12.088889" />
+    <ImageTarget name="TB__142" size="20.000000 19.316038" />
+    <ImageTarget name="TB__137" size="20.000000 18.928572" />
+    <ImageTarget name="TB__136" size="20.000000 26.781116" />
+    <ImageTarget name="TB__134-135" size="20.000000 12.088889" />
+    <ImageTarget name="TB__126" size="20.000000 26.176807" />
+    <ImageTarget name="TB__125" size="20.000000 25.555555" />
+    <ImageTarget name="TB__120-121" size="20.000000 11.994261" />
+    <ImageTarget name="TB__116-117" size="20.000000 12.000000" />
+    <ImageTarget name="TB__89" size="20.000000 26.758726" />
+    <ImageTarget name="TB__80-81" size="20.000000 12.000000" />
+    <ImageTarget name="TB__72" size="20.000000 27.578348" />
+    <ImageTarget name="TB__71" size="20.000000 26.923708" />
+    <ImageTarget name="TB__68" size="20.000000 27.358717" />
+    <ImageTarget name="TB__52" size="20.000000 26.125990" />
+    <ImageTarget name="TB__42" size="20.000000 26.350931" />
+    <ImageTarget name="TB__41" size="20.000000 27.917173" />
+    <ImageTarget name="TB__29" size="20.000000 25.654917" />
+    <ImageTarget name="TB__28" size="20.000000 27.272013" />
+    <ImageTarget name="TB__22" size="20.000000 26.617361" />
+    <ImageTarget name="TB__20" size="20.000000 26.519421" />
+    <ImageTarget name="TB__18-19" size="20.000000 12.088889" />
+    <ImageTarget name="TB__16" size="20.000000 25.540642" />
+    <ImageTarget name="TB__15" size="20.000000 26.510736" />
+    <ImageTarget name="TB__7" size="20.000000 23.180038" />
+  </Tracking>
+</QCARConfig>
